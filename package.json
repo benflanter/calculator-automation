@@ -1,0 +1,15 @@
+{
+  "name": "calculator-cypress-automation",
+  "version": "1.0.0",
+  "description": "cypress automation project for calculator",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx cypress run"
+  },
+  "author": "Ben Flanter",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.3",
+    "typescript": "^5.4.5"
+  }
+}
